@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF101418</color>
+    <color name="card">#FF1C232B</color>
+    <color name="text">#FFF2F4F7</color>
+    <color name="muted">#FF98A2B3</color>
+    <color name="ok">#FF32D583</color>
+    <color name="danger">#FFF04438</color>
+    <color name="limit_ring">#FFE5484D</color>
+    <color name="accent">#FF2E90FA</color>
+    <color name="icon_bg">#FF1C232B</color>
+</resources>
